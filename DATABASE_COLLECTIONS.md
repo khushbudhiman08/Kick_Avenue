@@ -4,6 +4,7 @@ This document describes all the collections stored in the MongoDB database for t
 
 ## Collections Overview
 
+
 The `Kick_Avenue` database contains the following collections:
 
 1. **users** - User accounts and authentication
